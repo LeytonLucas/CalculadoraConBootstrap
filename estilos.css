@@ -1,0 +1,31 @@
+.row .filaBotones{
+    margin-left: 10px !important;
+    margin-right: 10px;
+    justify-content: center;
+    
+}
+
+.w50{
+    min-width: 50px !important;
+    text-align:center
+}
+
+.wlg{
+    min-width: 176px !important;
+    text-align:center
+}
+
+.wmd{
+    min-width: 115px !important;
+    text-align:center
+}
+
+.center{
+    justify-items: center;
+}
+
+.calculadora{
+    max-width: 380px;
+    min-width: 375px;
+    
+}
